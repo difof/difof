@@ -1,0 +1,4 @@
+- I’m @difof, I do whatever I like
+- I’m interested in your mom if she cute
+- I’m currently learning ancient literature
+- I like lemons and strawberries 
