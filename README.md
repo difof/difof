@@ -1,4 +1,4 @@
-- I’m @difof, I do whatever I like
-- I’m interested in your mom if she cute
-- I’m currently learning ancient literature
-- I like lemons and strawberries 
+- I’m @difof, I do whatever I find interest in, mostly dev stuff
+- Currently learning ancient literature
+- I like strawberries and lemons
+- Main tech stack: golang, solidity, typescript, cosmos sdk, godot, .NET
