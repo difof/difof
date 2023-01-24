@@ -1,4 +1,3 @@
 - I’m @difof, I do whatever I find interest in, mostly dev stuff
-- Currently learning ancient literature
-- I like strawberries and lemons
 - Main tech stack: golang, solidity, typescript, cosmos sdk, godot, .NET
+- Be building
