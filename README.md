@@ -1,3 +1,5 @@
-- I’m @difof, I do whatever I find interest in, mostly dev stuff
-- Main tech stack: golang, solidity, typescript, cosmos sdk, godot, .NET
-- Be building
+- Activity bar can be faked easily, don't be a fool.
+- Main tech stack: Solidity, Golang, TypeScript, F# and .NET
+- Be building!
+
+I also do articles at [difof.medium.com](https://difof.medium.com)
