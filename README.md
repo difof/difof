@@ -3,3 +3,5 @@
 - Be building!
 
 Recently been falling in love with OCaml!
+
+**Language models are merely polite and smart stackoverflows, not engineers. Don't be a fool.**
