@@ -1,5 +1,5 @@
-- Senior Blockchain (EVM only) and backend engineer
-- Main tech stack: Solidity, Golang, TypeScript, F# and .NET
+- Senior Blockchain and backend engineer
+- Main tech stack: Solidity, Golang, TypeScript, F# and .NET, Rust
 - Be building!
 
 Recently been falling in love with OCaml!
