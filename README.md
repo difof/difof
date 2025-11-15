@@ -1,7 +1,7 @@
-- Senior Blockchain and backend engineer
+- Senior Blockchain and system architect
 - Main tech stack: Solidity, Golang, TypeScript, F# and .NET, Rust
 - Be building!
 
-Recently been falling in love with OCaml!
-
 **Language models are merely polite and smart stackoverflows, not engineers. Don't be a fool.**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=difof&show_icons=true&cache_seconds=1800&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
