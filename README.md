@@ -1,8 +1,14 @@
-- Senior Blockchain and system architect
-- Main tech stack: Solidity, Golang, TypeScript, F# and .NET, Rust
-- Be building!
+Senior Blockchain & Systems Architect
 
-**Language models are merely polite and smart stackoverflows, not engineers. Don't be a fool.**
+Core stack: **Solidity** • **Go** • **TypeScript** • **C++** • **Rust** • **F#/.NET**
+
+---
+
+Human language has become the new abstraction layer, but vibecoding and blind AI surrender won't cut it.
+
+Real engineering still requires deep technical knowledge, strong code review skills, and precise prompting to produce secure, idiomatic, production ready code.
+
+🚧 Keep building 👨🏻‍💻🔨 🚧
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=difof&show_icons=true&cache_seconds=300&theme=dark#gh-dark-mode-only&include_all_commits=true&count_private=true&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR,FORK)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 -->
